@@ -49,3 +49,7 @@ Public Sentiment Tracking: Identifying trends in public opinion regarding global
 Customer Support Automation: Categorizing customer complaints and prioritizing responses.
 Conclusion
 This project successfully demonstrates how machine learning and NLP techniques can be leveraged to classify sentiment in Twitter comments. By using state-of-the-art models and deployment strategies, it provides valuable insights into social media interactions, making it a useful tool for businesses, researchers, and analysts.
+
+#output
+
+![Image](https://github.com/user-attachments/assets/9cd2e571-ec02-4231-b9ea-e03ef111e08c)
